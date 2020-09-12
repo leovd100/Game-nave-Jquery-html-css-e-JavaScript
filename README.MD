@@ -6,4 +6,4 @@
 
 ![game](https://i.imgur.com/992wsM6.png "game")
 
-O jogo foi construido utilizando a ferramenta de colisão do framework Jquery, junto com html, css e js.
+O jogo foi construído utilizando a ferramenta de colisão do framework Jquery, junto com html, css e js.
