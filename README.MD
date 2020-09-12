@@ -4,6 +4,6 @@
 		W e S para se movimentar
 		D para tirar
 
-![file](https://i.imgur.com/992wsM6.png, file)
+![game](https://i.imgur.com/992wsM6.png "game")
 
 O jogo foi construido utilizando a ferramenta de colisão do framework Jquery, junto com html, css e js.
